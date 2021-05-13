@@ -1,0 +1,222 @@
+*{
+    padding:0px;
+    margin:0px;  
+}
+header
+{
+    background-color: #415e9b;
+    height:82px;
+    border-bottom:1px solid #133783;
+}
+.header-block
+{
+    width: 992px;
+    margin:0 auto;
+    padding-top:20px;
+}
+.logo
+{
+    width: 50%;
+    float:left;
+}
+.facebook-login
+{
+    width: 50%;
+    float:right;
+    
+}
+.logo img
+{
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.header-block label
+{
+    color:#fff;
+}
+.email
+{
+    float:left;
+}
+.email label
+{
+    padding-bottom:10px;
+}
+.email input[type="text"]
+{
+    height:20px;
+    width: 150px;
+    border:1px solid #1d2a5b;
+}
+.password
+{
+    float:left;
+    margin-left: 15px;
+    
+}
+.password input [type="password"]{
+    height:20px;
+    width: 150px;
+    border:1px solid #1d2a5b;
+}
+.password a 
+{
+    color:#8fb1d8;
+    text-decoration:none;
+}
+.password label
+{
+    padding-bottom:10px;;
+}
+.login-button
+{
+    margin-top: 10px;
+    float:left;
+    margin-top:20px;
+    margin-left:20px;
+}
+.login-button input[type="submit"]
+{
+    background-color: #4267b2;
+    border:1px solid #29487d;
+    border-radius: 2px;
+    color:#fff;
+    height:20px;
+    width:50px;
+}
+.clearfix
+{
+    clear:both;
+}
+.content-block
+{
+    clear: both;
+    margin: 0 auto;
+    margin-left: 10%;
+    color: white;
+    
+}
+.facebook-connect
+{
+    margin-top:50px;
+    float: left;
+    width:50px;
+}
+.cc
+{
+    margin-left:150px;
+}
+.facebook-connect p
+{
+    color: #0e385f;
+    font-weight: bold;
+}
+.facebook-connect img
+{
+    margin-top: 10px;
+}
+.p12
+{
+    margin-top:20px;
+    margin-left:150px;
+}
+
+.create-account
+{
+    float:right;
+    margin-right:250px;
+    margin-left: 20px;
+    background-color: #e0e0e0;
+    float: right;
+}
+.hello
+{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:50px;
+    padding-right:50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    cursor: pointer;  
+    border: 1px solid green;
+    border-radius: 5px;
+}
+.css
+{
+    margin-top: -1px;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 600px;
+    margin-left: -1px;
+   background-color: #e0e0e0;
+   margin-bottom: -160px;
+}
+#hi
+{
+    padding-top:5px;
+    padding-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#h45
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color:MidnightBlue;
+}
+#p3
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#p1, #p2, #p3, #p4
+{
+    height:20px;
+    padding-left: 5px;
+    border-radius: 5px;
+}
+#p1
+{
+    margin-right: 5px;
+}
+#pd
+{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+#h8
+{
+    margin-bottom: 10px;
+}
+#a1,#a2,#a3
+{
+    margin-right:10px;
+}
+#a4
+{
+    margin-left: 5px;
+}
+header
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.css
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+a
+{
+    text-decoration: none;
+}
+
+.word-spacing
+{
+    word-spacing: 10px;
+}
+.left{
+    float:left;
+}
